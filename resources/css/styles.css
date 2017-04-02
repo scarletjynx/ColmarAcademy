@@ -1,0 +1,17 @@
+html {
+  font-size: 16px;
+  border: 1px solid black;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  height: 4rem;
+  width: 100%;
+  padding: 0 1.5rem;
+  background-color: white;
+}
+
+header nav {
+  display: flex;
+}
